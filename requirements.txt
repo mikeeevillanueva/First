@@ -30,7 +30,7 @@ goslate==1.5.1
 idna==2.6
 ipaddress==1.0.19
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jwt==0.5.2
 MarkupSafe==0.23
 matplotlib==2.0.0
