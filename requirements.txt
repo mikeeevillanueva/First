@@ -62,7 +62,7 @@ simplejson==3.13.2
 six==1.10.0
 SQLAlchemy==0.9.7
 typing==3.5.3.0
-urllib3==1.22
+urllib3==1.26.5
 uuid==1.30
 virtualenv==15.0.3
 visitor==0.1.3
