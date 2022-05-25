@@ -42,7 +42,7 @@ pyasn1==0.4.2
 PyAutoGUI==0.9.36
 pycparser==2.18
 PyDictionary==1.5.2
-PyJWT==1.6.1
+PyJWT==2.4.0
 pymongo==3.6.1
 PyMouse==1.0
 PyMsgBox==1.0.6
